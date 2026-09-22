@@ -2,7 +2,7 @@
 Đồ án nhóm: Khai phá chuỗi hành vi học tập dự báo nguy cơ bỏ học
 
 <h1>BẢNG TỪ ĐIỂN DỮ LIỆU (DATA DICTIONARY)</h1>
-<h2>Phụ trách tiền xử lý: Data Engineer (Lê Hoàng Vy)</h2>
+<h2>Phụ trách tiền xử lý: Data Engineer (Lê Hoàng Vy) - Tuần 01</h2>
 Tên file dữ liệu đầu ra: sequence_dataset_cleaned.csv
 
 <h3>1. Cấu trúc tập dữ liệu</h3>
